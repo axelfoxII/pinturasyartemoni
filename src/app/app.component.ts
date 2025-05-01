@@ -68,7 +68,7 @@ closeModal() {
       image: '/img/primerospasos.webp',
       title: 'EL ABC DE LA PINTURA COUNTRY',
       description: 'Con este entrenamiento podrás dominar el arte de la pintura country desde cero a experta con 10 proyectos.',
-      link: 'https://tucurso.com/arte-clasico'
+      link: 'https://hotmart.com/es/marketplace/productos/pintura-country-primeros-pasos/V75140567H?sck=HOTMART_MEM_CA'
     },
     // Más cursos...
   ];
