@@ -57,6 +57,23 @@ closeModal() {
     
   ];
 
+  courses = [
+    {
+      image: '/img/ABCPINTURACOUNTRY.webp',
+      title: 'Pintura Country Primeros Pasos',
+      description: 'Pintura Country Primeros Pasos, es para quien siempre quizo pintar en madera pero no sabe por dónde comenzar.',
+      link: 'https://hotmart.com/es/marketplace/productos/el-abc-de-la-pintura-country/K69642094W?sck=HOTMART_MEM_CA'
+    },
+    {
+      image: '/img/primerospasos.webp',
+      title: 'EL ABC DE LA PINTURA COUNTRY',
+      description: 'Con este entrenamiento podrás dominar el arte de la pintura country desde cero a experta con 10 proyectos.',
+      link: 'https://tucurso.com/arte-clasico'
+    },
+    // Más cursos...
+  ];
+  
+
  
   ngOnInit() {
     setInterval(() => {
