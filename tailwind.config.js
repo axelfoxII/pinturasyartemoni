@@ -2,16 +2,15 @@
 
 module.exports = {
   content: [
-    "./src/**/*.{html,ts}"  // Incluir .ts para componentes de Angular
+    "./src/**/*.{html,ts}",
   ],
   theme: {
     extend: {},
   },
   plugins: [
-    require('daisyui'),
+      require('daisyui'),
   ],
-  daisyui: {
-    themes: ['night'],  // Configurar tema de daisyUI
+  daisyui:{
+      themes:['night']
   }
 }
-
