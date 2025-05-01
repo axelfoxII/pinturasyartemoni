@@ -43,6 +43,8 @@ closeModal() {
 
   featuredImages = [
     '/img/galeria.jpg',
+    '/img/SemanaCountry.jpg',
+    
     
   ];
 
